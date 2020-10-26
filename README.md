@@ -1,4 +1,4 @@
-# NLP---Sentiment-Analysis-Model-Comparision
+# Sentiment Classification (TFIDF, Word2Vec, BERT)
 
 
 ### HOW TO RUN:
@@ -71,3 +71,6 @@ The easiest way to run the .ipynb files is to load the files and training/testin
 	5) ktrain uses the BERT model which will be downloaded and preprocessed based on it's inbuilt preprocessing techniques.
 	6) Build the model and train the model on training data.
 	7) Get Predictions for testing data and generate classification results.
+	
+## Report
+To get a detailed information about model comparisions and performance, refer to Report.pdf
